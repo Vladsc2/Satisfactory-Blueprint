@@ -1,0 +1,13 @@
+{
+    "text": "30+30 -> 40+20",
+    "text_layout": "center",
+    "setLower": true,
+    "x": 472,
+    "y": 54,
+    "width": 264,
+    "height": 242,
+    "text_color": "rgb(240, 240, 240)",
+    "head_color": "rgb(50, 205, 50)",
+    "body_color": "rgba(0, 255, 127, 0.4)",
+    "point_color": "rgb(255, 0, 0)"
+}

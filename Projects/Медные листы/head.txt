@@ -1,0 +1,12 @@
+Название = Медные листы
+blueprint width = 1920
+blueprint height = 1080
+hz lines = 200
+hz images = 500
+flag Print Recipe = True
+flag Print Current = True
+flag Print Types = True
+flag Print Logistic = True
+flag Print Types Logistic = True
+flag Show Hotkeys = True
+Current Scale Percent = 100

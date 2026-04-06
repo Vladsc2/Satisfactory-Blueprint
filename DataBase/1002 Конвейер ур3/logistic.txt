@@ -1,0 +1,5 @@
+max value = 270
+is_liquid = 0
+red = 255
+green = 0
+blue = 128

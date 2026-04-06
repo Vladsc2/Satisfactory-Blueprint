@@ -1,0 +1,9 @@
+название = Контейнер 2
+Категория (creators , smelters , boers , extractors , energy , logistics , storage) = storage
+Потребление энергии = 0
+Входящие потоки = 2
+Исходящие потоки = 2
+Входящие жидкости = 0
+Исходящие жидкости = 0
+type (block, logistic) = block
+Уровень появления = 4

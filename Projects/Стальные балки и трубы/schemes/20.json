@@ -1,0 +1,18 @@
+{
+    "original_id": 20,
+    "object_name": "Контейнер",
+    "count_batteries": 0,
+    "current_recipe_index": null,
+    "output_objects_names": [],
+    "input_schemes_ids": [
+        23
+    ],
+    "output_schemes_ids": [],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 2370,
+    "y": 192,
+    "relative_x": 0,
+    "relative_y": 0
+}

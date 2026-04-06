@@ -1,0 +1,23 @@
+{
+    "original_id": 316,
+    "object_name": "Очистительный завод",
+    "count_batteries": 0,
+    "current_recipe_index": 0,
+    "createWidget": false,
+    "output_objects_names": [],
+    "input_schemes_ids": [],
+    "output_schemes_ids": [],
+    "output_objects_names_liquid": [
+        "Труба Ур.1"
+    ],
+    "input_schemes_ids_liquid": [
+        309
+    ],
+    "output_schemes_ids_liquid": [
+        318
+    ],
+    "x": 848,
+    "y": 772,
+    "relative_x": 0,
+    "relative_y": 0
+}

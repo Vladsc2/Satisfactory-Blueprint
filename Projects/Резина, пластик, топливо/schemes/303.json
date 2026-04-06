@@ -1,0 +1,25 @@
+{
+    "original_id": 303,
+    "object_name": "Liquid 1->3",
+    "count_batteries": 0,
+    "current_recipe_index": null,
+    "createWidget": true,
+    "output_objects_names": [],
+    "input_schemes_ids": [],
+    "output_schemes_ids": [],
+    "output_objects_names_liquid": [
+        "Труба Ур.1",
+        "Труба Ур.1"
+    ],
+    "input_schemes_ids_liquid": [
+        300
+    ],
+    "output_schemes_ids_liquid": [
+        304,
+        305
+    ],
+    "x": 244,
+    "y": 447,
+    "relative_x": 0,
+    "relative_y": 0
+}

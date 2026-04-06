@@ -1,0 +1,9 @@
+название = Экстр. Воды
+Категория (creators, smelters, boers, extractors, energy, logistics, storage) = extractors
+Потребление энергии = 20
+Входящие потоки = 0
+Исходящие потоки = 0
+Входящие жидкости = 0
+Исходящие жидкости = 1
+type (block, logistic) = block
+Уровень появления = 3

@@ -1,0 +1,9 @@
+название = Соединитель
+Категория (creators , smelters , boers , extractors , energy , logistics , storage) = logistics
+Потребление энергии = 0
+Входящие потоки = 3
+Исходящие потоки = 1
+Входящие жидкости = 0
+Исходящие жидкости = 0
+type (block, logistic) = block
+Уровень появления = 1

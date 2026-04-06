@@ -1,0 +1,22 @@
+{
+    "original_id": 87,
+    "object_name": "Конструктор",
+    "count_batteries": 0,
+    "current_recipe_index": 1,
+    "output_objects_names": [
+        "Конвейер ур3"
+    ],
+    "input_schemes_ids": [
+        97
+    ],
+    "output_schemes_ids": [
+        88
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 989,
+    "y": 1096,
+    "relative_x": 0,
+    "relative_y": 0
+}

@@ -1,0 +1,24 @@
+{
+    "original_id": 149,
+    "object_name": "Соединитель",
+    "count_batteries": 0,
+    "current_recipe_index": null,
+    "createWidget": true,
+    "output_objects_names": [
+        "Конвейер ур3"
+    ],
+    "input_schemes_ids": [
+        132,
+        133
+    ],
+    "output_schemes_ids": [
+        153
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 825,
+    "y": 1640,
+    "relative_x": 0,
+    "relative_y": 0
+}

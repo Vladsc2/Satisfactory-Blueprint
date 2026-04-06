@@ -1,0 +1,9 @@
+название = Труба Ур.1
+Категория (creators , smelters , boers , extractors , energy , logistics , storage) = logistics
+Потребление энергии = 0
+Входящие потоки = 0
+Исходящие потоки = 0
+Входящие жидкости = 1
+Исходящие жидкости = 1
+type (block, logistic) = logistic
+Уровень появления = 3

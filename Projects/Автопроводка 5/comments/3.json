@@ -1,0 +1,13 @@
+{
+    "text": "200 Проволоки",
+    "text_layout": "left",
+    "setLower": null,
+    "x": 775,
+    "y": 100,
+    "width": 142,
+    "height": 40,
+    "text_color": "rgb(240, 240, 240)",
+    "head_color": "rgba(240, 72, 0, 1)",
+    "body_color": "rgba(255, 165, 0, 0.8)",
+    "point_color": "rgb(255, 0, 0)"
+}

@@ -1,0 +1,23 @@
+{
+    "original_id": 69,
+    "object_name": "Ассемблер",
+    "count_batteries": 0,
+    "current_recipe_index": 3,
+    "output_objects_names": [
+        "Конвейер ур3"
+    ],
+    "input_schemes_ids": [
+        171,
+        186
+    ],
+    "output_schemes_ids": [
+        189
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 2000,
+    "y": 284,
+    "relative_x": 0,
+    "relative_y": 0
+}

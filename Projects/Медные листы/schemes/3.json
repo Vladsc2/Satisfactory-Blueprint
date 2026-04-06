@@ -1,0 +1,20 @@
+{
+    "original_id": 3,
+    "object_name": "Бур ур1",
+    "count_batteries": 0,
+    "current_recipe_index": 4,
+    "output_objects_names": [
+        "Конвейер ур2"
+    ],
+    "input_schemes_ids": [],
+    "output_schemes_ids": [
+        5
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 0,
+    "y": 306,
+    "relative_x": 0,
+    "relative_y": 0
+}

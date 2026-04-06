@@ -1,0 +1,9 @@
+название = Конструктор
+Категория (creators, smelters, boers, extractors, energy, logistics, storage) = creators
+Потребление энергии = 4
+Входящие потоки = 1
+Исходящие потоки = 1
+Входящие жидкости = 0
+Исходящие жидкости = 0
+type (block, logistic) = block
+Уровень появления = 0

@@ -1,0 +1,24 @@
+{
+    "original_id": 25,
+    "object_name": "Разветвитель",
+    "count_batteries": 0,
+    "current_recipe_index": null,
+    "output_objects_names": [
+        "Конвейер ур3",
+        "Конвейер ур3"
+    ],
+    "input_schemes_ids": [
+        20
+    ],
+    "output_schemes_ids": [
+        2,
+        3
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 329,
+    "y": 166,
+    "relative_x": 0,
+    "relative_y": 0
+}

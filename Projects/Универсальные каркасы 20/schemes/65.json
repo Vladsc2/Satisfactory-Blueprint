@@ -1,0 +1,22 @@
+{
+    "original_id": 65,
+    "object_name": "Литейная",
+    "count_batteries": 0,
+    "current_recipe_index": 1,
+    "output_objects_names": [
+        "Конвейер ур3"
+    ],
+    "input_schemes_ids": [
+        74
+    ],
+    "output_schemes_ids": [
+        11
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 742,
+    "y": 103,
+    "relative_x": 0,
+    "relative_y": 0
+}

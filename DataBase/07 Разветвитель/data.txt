@@ -1,0 +1,9 @@
+название = Разветвитель
+Категория (creators , smelters , boers , extractors , energy , logistics , storage) = logistics
+Потребление энергии = 0
+Входящие потоки = 1
+Исходящие потоки = 3
+Входящие жидкости = 0
+Исходящие жидкости = 0
+type (block, logistic) = block
+Уровень появления = 1

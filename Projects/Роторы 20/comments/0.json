@@ -1,0 +1,13 @@
+{
+    "text": "Винты 200",
+    "text_layout": "left",
+    "setLower": true,
+    "x": 1540,
+    "y": 750,
+    "width": 465,
+    "height": 432,
+    "text_color": "rgb(240, 240, 240)",
+    "head_color": "rgb(50, 205, 50)",
+    "body_color": "rgba(0, 255, 127, 0.4)",
+    "point_color": "rgb(0, 139, 139)"
+}

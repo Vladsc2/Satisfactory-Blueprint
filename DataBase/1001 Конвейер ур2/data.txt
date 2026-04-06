@@ -1,0 +1,9 @@
+название = Конвейер ур2
+Категория (creators , smelters , boers , extractors , energy , logistics , storage) = logistics
+Потребление энергии = 0
+Входящие потоки = 1
+Исходящие потоки = 1
+Входящие жидкости = 0
+Исходящие жидкости = 0
+type (block, logistic) = logistic
+Уровень появления = 2

@@ -1,0 +1,9 @@
+название = Бур ур2
+Категория (creators , smelters , boers , extractors , energy , logistics , storage) = boers
+Потребление энергии = 15
+Входящие потоки = 0
+Исходящие потоки = 1
+Входящие жидкости = 0
+Исходящие жидкости = 0
+type (block, logistic) = block
+Уровень появления = 4

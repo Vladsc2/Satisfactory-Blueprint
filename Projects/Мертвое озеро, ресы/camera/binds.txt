@@ -1,0 +1,12 @@
+-6578 , -1736 , True
+12476 , -40906 , True
+-72906 , -6086 , True
+-19750 , -113985 , True
+0 , 0 , False
+0 , 0 , False
+0 , 0 , False
+0 , 0 , False
+0 , 0 , False
+0 , 0 , False
+0 , 0 , False
+0 , 0 , False

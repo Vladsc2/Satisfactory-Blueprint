@@ -1,0 +1,13 @@
+{
+    "text": "240 руды + 240 угля ---> 360 стальных слитков",
+    "text_layout": "left",
+    "setLower": true,
+    "x": 10,
+    "y": 4,
+    "width": 935,
+    "height": 545,
+    "text_color": "rgb(240, 240, 240)",
+    "head_color": "rgb(0, 139, 139)",
+    "body_color": "rgba(175, 238, 238, 0.4)",
+    "point_color": "rgb(75, 0, 130)"
+}

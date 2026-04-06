@@ -1,0 +1,22 @@
+{
+    "original_id": 8,
+    "object_name": "Плавильня",
+    "count_batteries": 0,
+    "current_recipe_index": 1,
+    "output_objects_names": [
+        "Конвейер ур2"
+    ],
+    "input_schemes_ids": [
+        5
+    ],
+    "output_schemes_ids": [
+        10
+    ],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 518,
+    "y": 169,
+    "relative_x": 0,
+    "relative_y": 0
+}

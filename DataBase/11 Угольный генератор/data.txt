@@ -1,0 +1,9 @@
+название = Угольный генератор
+Категория (creators, smelters, boers, extractors, energy, logistics, storage) = energy
+Потребление энергии = 0
+Входящие потоки = 1
+Исходящие потоки = 0
+Входящие жидкости = 1
+Исходящие жидкости = 0
+type (block, logistic) = block
+Уровень появления = 3

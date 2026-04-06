@@ -1,0 +1,12 @@
+Название = Моторы 10 + Проволока и Кабели
+blueprint width = 5000
+blueprint height = 3500
+hz lines = 200
+hz images = 1000
+flag Simple Craft = False
+flag Print Current = True
+flag Print Types = True
+flag Print Logistic = True
+flag Print Types Logistic = True
+flag Show Hotkeys = True
+Current Scale Percent = 50

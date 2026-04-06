@@ -1,0 +1,4 @@
+scheme width = 75
+scheme height = 75
+dragging width = 120
+dragging height = 90

@@ -1,0 +1,13 @@
+{
+    "text": "120 Меди -> 240 Проволоки",
+    "text_layout": "left",
+    "setLower": true,
+    "x": 102,
+    "y": 24,
+    "width": 720,
+    "height": 675,
+    "text_color": "rgb(240, 240, 240)",
+    "head_color": "rgba(240, 72, 0, 1)",
+    "body_color": "rgba(255, 165, 0, 0.8)",
+    "point_color": "rgb(255, 0, 0)"
+}

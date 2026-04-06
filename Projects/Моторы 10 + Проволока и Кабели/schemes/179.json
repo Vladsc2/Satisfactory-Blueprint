@@ -1,0 +1,19 @@
+{
+    "original_id": 179,
+    "object_name": "Контейнер 2",
+    "count_batteries": 0,
+    "current_recipe_index": null,
+    "createWidget": true,
+    "output_objects_names": [],
+    "input_schemes_ids": [
+        173
+    ],
+    "output_schemes_ids": [],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [],
+    "output_schemes_ids_liquid": [],
+    "x": 1970,
+    "y": 1170,
+    "relative_x": 0,
+    "relative_y": 0
+}

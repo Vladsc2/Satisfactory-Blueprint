@@ -1,0 +1,20 @@
+{
+    "original_id": 21,
+    "object_name": "Угольный генератор",
+    "count_batteries": 0,
+    "current_recipe_index": 0,
+    "output_objects_names": [],
+    "input_schemes_ids": [
+        47
+    ],
+    "output_schemes_ids": [],
+    "output_objects_names_liquid": [],
+    "input_schemes_ids_liquid": [
+        65
+    ],
+    "output_schemes_ids_liquid": [],
+    "x": 1280,
+    "y": 1080,
+    "relative_x": 0,
+    "relative_y": 0
+}

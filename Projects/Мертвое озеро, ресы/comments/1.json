@@ -1,0 +1,13 @@
+{
+    "text": "300 Известняка -> 100 бетона",
+    "text_layout": "left",
+    "setLower": true,
+    "x": 6,
+    "y": 690,
+    "width": 680,
+    "height": 545,
+    "text_color": "rgb(240, 240, 240)",
+    "head_color": "rgb(0, 139, 139)",
+    "body_color": "rgba(175, 238, 238, 0.4)",
+    "point_color": "rgb(75, 0, 130)"
+}
