@@ -110,9 +110,9 @@ class DataBase():
                     max_value = Decimal(lines[0].split("=")[1].strip())
                     check = lines[1].split("=")[1].strip()
                     is_liquid = get_bool_from_int(lines[1].split("=")[1].strip())
-                    q_color_red = Decimal(lines[2].split("=")[1].strip())
-                    q_color_green = Decimal(lines[3].split("=")[1].strip())
-                    q_color_blue = Decimal(lines[4].split("=")[1].strip())
+                    q_color_red = int(lines[2].split("=")[1].strip())
+                    q_color_green = int(lines[3].split("=")[1].strip())
+                    q_color_blue = int(lines[4].split("=")[1].strip())
 
 
                 dataObject = LogisticObject(self.data_list, name, category,
@@ -139,6 +139,7 @@ class DataBase():
                 dataObject.set_dragging_size(dragging_width, dragging_height)
 
                 self.load_recipe_for_object(dataObject, folder_path)
+
 
     def load_recipe_for_object(self, object, folder_path):
         recipes_path = os.path.join(folder_path, "Recipes")
