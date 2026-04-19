@@ -202,3 +202,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Other
+test.py
+
+!*/
+Projects/*
+!Projects/HelloWorld/**
+
+CustomSchemes/*
+!CustomSchemes/Example/**
