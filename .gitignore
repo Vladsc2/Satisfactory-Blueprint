@@ -207,8 +207,3 @@ __marimo__/
 test.py
 
 !*/
-Projects/*
-!Projects/HelloWorld/**
-
-CustomSchemes/*
-!CustomSchemes/Example/**
